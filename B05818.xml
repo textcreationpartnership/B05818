@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saylors departure from his dearest love, wishing that still (to him) she'd constant prove she (in the second part) doth thus reply, e're she'd from him depart, she'l chuse to dye. To a new tune of, Adieu my pretty one.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681-1684?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05818</idno>
+            <idno type="STC">Wing S290</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[405]</idno>
+            <idno type="EEBO-CITATION">99887873</idno>
+            <idno type="PROQUEST">ocm99887873</idno>
+            <idno type="VID">183527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183527)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[318])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saylors departure from his dearest love, wishing that still (to him) she'd constant prove she (in the second part) doth thus reply, e're she'd from him depart, she'l chuse to dye. To a new tune of, Adieu my pretty one.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for  J. Wright, J. Clarke, W. Thackeray, and T.P.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1681-1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Now I am bound to the seas ..."</note>
+                  <note>In two parts. The second part has title: Her answer.</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="405" facs="tcp:183527:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <l>The Saylors departure from his deareſt Love,</l>
+               <l>Wiſhing that ſtill (to him) ſhe'd conſtant prove</l>
+               <l>She (in the ſecond part) doth thus reply,</l>
+               <l>E're ſhe'd from him depart, ſhe'l chuſe to dye.</l>
+            </head>
+            <opener>To a new Tune of, <hi>Adieu my pretty one.</hi>
+            </opener>
+            <div type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <lg>
+                     <l>NOw I am bound to the Seas,</l>
+                     <l>and from my love muſt part,</l>
+                     <l>May ought my dear diſpleaſe,</l>
+                     <l>that lies ſo near my heart:</l>
+                     <l>Nor mourn my ſweet for me,</l>
+                     <l>to perturpate thy mind,</l>
+                     <l>Since there no help can be,</l>
+                     <l>I muſt leave thee behind.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember me on ſhore,</hi>
+                        </l>
+                        <l>
+                           <hi>as I the on the main,</hi>
+                        </l>
+                        <l>
+                           <hi>So keep my love in ſtore,</hi>
+                        </l>
+                        <l>
+                           <hi>till I return again.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Poor Saylors muſt indure,</l>
+                     <l>the ſtorms of <hi>Boreas</hi> blaſt;</l>
+                     <l>Of life no man is ſure,</l>
+                     <l>while Seas raging laſt:</l>
+                     <l>But when the ſtorms are o're,</l>
+                     <l>that wind and tide ſerves well,</l>
+                     <l>We haſt to kiſs the ſhore,</l>
+                     <l>where our true Lovers dwell:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>When we are landed there,</l>
+                     <l>and come to greet our friends,</l>
+                     <l>Strange wonders we declare,</l>
+                     <l>how God us ſave defends:</l>
+                     <l>Then Love (if thou pleaſe,</l>
+                     <l>pray ſtill for my ſucceſs,</l>
+                     <l>And proſperous Gate at Seas</l>
+                     <l>to ſhield us from diſtreſs,</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Our ſhipping ſhall be built,</l>
+                     <l>without the help of Tree,</l>
+                     <l>The hardeſt flint ſhall melt,</l>
+                     <l>e're I prove falſe to thee:</l>
+                     <l>And though I be inforc'd,</l>
+                     <l>to part thy company,</l>
+                     <l>My love bides indivorc'd,</l>
+                     <l>and ſhall do till I dye.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The fire ſhall freeze by kind,</l>
+                     <l>the Snow ſhall flaming burn,</l>
+                     <l>The rain ſhall turn to wind,</l>
+                     <l>or e're my love return:</l>
+                     <l>Young-men and Maidens all,</l>
+                     <l>that live in <hi>England</hi> wide,</l>
+                     <l>To witneſs I you call,</l>
+                     <l>how firm my love ſhall bide:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The Mountains high ſhall fall,</l>
+                     <l>beneath the valleys deep,</l>
+                     <l>E're I prove falſe at all,</l>
+                     <l>my promiſe ſo i'le keep:</l>
+                     <l>And if I hold not true,</l>
+                     <l>to thee my gentle Dove,</l>
+                     <l>Let not my eyes e're view,</l>
+                     <l>Earth, Air, or Heaven above:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The Fiſh ſhall ſeem to flye,</l>
+                     <l>yea, Birds to fiſhes turn,</l>
+                     <l>The Sea be ever dry,</l>
+                     <l>and fire ceaſe to burn:</l>
+                     <l>When I prove falſe to thee,</l>
+                     <l>ſhall theſe things come to paſs,</l>
+                     <l>But that will never be,</l>
+                     <l>no nor ſo never was:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Let not deluding tongue,</l>
+                     <l>bereave me of my love,</l>
+                     <l>Nor (ſweet) do me ſuch wrong,</l>
+                     <l>leaſt it my death ſhould prove:</l>
+                     <l>Thou ſeeſt I muſt away,</l>
+                     <l>our Ship lies under ſail,</l>
+                     <l>And time for none will ſtay,</l>
+                     <l>God ſends a happy Gale:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Remember me on ſhore,</hi>
+                        </l>
+                        <l>
+                           <hi>as I thee on the main,</hi>
+                        </l>
+                        <l>
+                           <hi>So keep my Love in ſtore;</hi>
+                        </l>
+                        <l>
+                           <hi>till I return again.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+            </div>
+            <div type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Her Anſwer.</speaker>
+                  <lg>
+                     <l>MVſt thou depart my dear,</l>
+                     <l>and leave me thus alone,</l>
+                     <l>'Twill coſt me many a tear,</l>
+                     <l>though to thee it be unknown:</l>
+                     <l>But be aſſur'd i'le pray,</l>
+                     <l>unto the powers Divine,</l>
+                     <l>To proſper thee the way,</l>
+                     <l>where fate ſhall now deſign:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>While I remember thee,</hi>
+                        </l>
+                        <l>
+                           <hi>and keep my love in ſtore,</hi>
+                        </l>
+                        <l>
+                           <hi>Do thou the like to me,</hi>
+                        </l>
+                        <l>
+                           <hi>on Sea, or on the ſhore.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>O till thou doſt return,</l>
+                     <l>from of the Ocean main,</l>
+                     <l>Full often I ſhall mourn,</l>
+                     <l>in a lamenting ſtrain,</l>
+                     <l>And when fierce winds ariſe,</l>
+                     <l>or but contrary blow,</l>
+                     <l>My ſighs and watry eyes,</l>
+                     <l>ſhall ſympathize my woe:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Then i'le remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Each hour ſhall ſeem to me,</l>
+                     <l>in length (at leaſt) a year,</l>
+                     <l>Till thy return again,</l>
+                     <l>my joys are filled with fear,</l>
+                     <l>For on the Sea I know,</l>
+                     <l>what ſundry dangers be,</l>
+                     <l>Rock, Sands, and many a Foe,</l>
+                     <l>from which Lord keep thee free,</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Thus i'le remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>I would I might but ſail,</l>
+                     <l>t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rough ſurging ſeas with thee,</l>
+                     <l>My heart would never fail,</l>
+                     <l>while thou art near to me,</l>
+                     <l>Or that I could but hear,</l>
+                     <l>thy voice, I ſhould be well,</l>
+                     <l>But thoul't not be ſo near,</l>
+                     <l>to hear or ſee thy <hi>Nell:</hi>
+                     </l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Yet i'le,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Though loath we be to part,</l>
+                     <l>yet ſince it ſeems we muſt,</l>
+                     <l>To Sea bear thou my heart</l>
+                     <l>with whom it's put in truſt:</l>
+                     <l>And thine with me let reſt,</l>
+                     <l>till thou retur'ſt again,</l>
+                     <l>And each he doubly bleſt,</l>
+                     <l>by making one of twain:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>So i'le remember,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Mean while, my only joy,</l>
+                     <l>i'le kiſs thee lovingly;</l>
+                     <l>Our hopes doth time deſtroy,</l>
+                     <l>would I could him deny:</l>
+                     <l>But time will comfort bring,</l>
+                     <l>though we are at time croſt;</l>
+                     <l>And Winter finds a Spring,</l>
+                     <l>reſtor'd what ſeemed loſt:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Yet i'le,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <lg>
+                     <l>Farewel my love, farewel,</l>
+                     <l>ten thouſands times adieu,</l>
+                     <l>My witty pritty <hi>Nell,</hi>
+                     </l>
+                     <l>till my return to you,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <lg>
+                     <l>Farewel to thee ſweet-heat</l>
+                     <l>that now to Sea art gone,</l>
+                     <l>With that great grief I part,</l>
+                     <l>to Lovers beſt 'tis known:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Yet i'le remember thee,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for J. Wright, J. Clarke, W. Thackeray, and T.P.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
